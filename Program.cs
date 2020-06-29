@@ -10,6 +10,7 @@ namespace Library
             Console.WriteLine("Hello World!");
 
             Console.WriteLine("Working on branch fix1!");
+            Console.WriteLine("Working on branch fix2");
         }
     }
 }
