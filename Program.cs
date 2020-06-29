@@ -11,6 +11,8 @@ namespace Library
 
             Console.WriteLine("Working on branch fix1!");
             Console.WriteLine("Working on branch fix2");
+
+            //Adding code for fix3
         }
     }
 }
