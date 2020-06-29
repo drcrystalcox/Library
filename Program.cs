@@ -13,6 +13,8 @@ namespace Library
             Console.WriteLine("Working on branch fix2");
 
             //Adding code for fix3
+
+            //Added more code for fix3, after adding protection rule to remote master branch
         }
     }
 }
